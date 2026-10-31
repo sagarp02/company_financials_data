@@ -26,6 +26,6 @@ What I did
 - `it_financials_dashboard.pbix` - Power BI dashboard
 Key findings
 
-- Sector-wide revenue grew steadily from 2022 to 2026, but total net profit stayed almost flat over the same period — margins are getting squeezed across the board.
+- Sector-wide revenue grew steadily from 2022 to 2026, but total net profit stayed almost flat over the same period  margins are getting squeezed across the board.
 - TCS and Infosys lead the group on profit margin, consistent with their reputation as the most efficient operators in Indian IT.
 - TCS carries by far the largest debt load among the companies with available debt data, and it has grown every year.
